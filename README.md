@@ -1,8 +1,8 @@
-<img src="resources/logo.png" width=500/>
+<img src="resources/logo.png" width=600/>
 
 [![License](https://img.shields.io/badge/license-GPLv3-green.svg)](https://raw.githubusercontent.com/3nock/SpiderSuite/main/LICENSE)
 [![Telegram](https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg)](https://telegram.me/SpiderSuite) 
-[![Twitter](https://img.shields.io/twitter/follow/sub3suite?label=twitter&style=social)](https://twitter.com/SpiderSuite)
+[![Twitter](https://img.shields.io/twitter/follow/sub3suite?label=twitter&style=social)](https://twitter.com/spider_suite)
 
 # SpiderSuite
 

@@ -7,7 +7,7 @@ Feel free to [contact us](CONTACTS.md) for any further inquiries.
 
 ## Sponsor via Bitcoin
 
-<img src="docs/images/bitcoin_address.png" width=300/>
+<img src="resources/bitcoin_address.png" width=300/>
 
 Bitcoin address: `18taNLpWFJc7mwJsitaKArvpUfpqBPHSkm`
 
