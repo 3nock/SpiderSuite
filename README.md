@@ -19,16 +19,11 @@ If you're just getting started with web crawling/spidering, osint information ga
 
 ## Contributing 
 
-**Are you a developer?**
+**Are you a developer?** Check out the [open issues](https://github.com/3nock/SpiderSuite/issues).
 
-Check out the [open issues](https://github.com/3nock/SpiderSuite/issues).
-
-**Are you a designer?**
-
-You can help design an even more intuitive UI, Logos & Icons.
+**Are you a designer?** You can help design an even more intuitive UI, Logos & Icons.
 
 **Not a developer?**
-
 You can help by reporting [bugs](https://github.com/3nock/SpiderSuite/issues), requesting [features](https://github.com/3nock/SpiderSuite/issues), improving the [documentation](https://github.com/3nock/SpiderSuite/wiki), [sponsoring](SPONSOR.md) the project, writing blog posts & sharing this project to peers.
 
 For More information see [contribution guide](CONTRIBUTING.md).
