@@ -1,4 +1,4 @@
-<img src="resources/logo.png" width=600/>
+<img src="resources/logo.png" width=500/>
 
 [![License](https://img.shields.io/badge/license-GPLv3-green.svg)](https://raw.githubusercontent.com/3nock/SpiderSuite/main/LICENSE)
 [![Telegram](https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg)](https://telegram.me/SpiderSuite) 
