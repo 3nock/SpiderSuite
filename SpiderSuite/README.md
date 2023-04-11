@@ -1,2 +1,2 @@
 # SpiderSuite Source Code
-Advance web spider/crawler for cyber security proffesionals
+Spider Suite is currently not open source, but we're considering an open-core model.

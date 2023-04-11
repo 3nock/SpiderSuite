@@ -11,7 +11,7 @@ For more information checkout the [documentation](https://github.com/3nock/Spide
 
 ## Features
 
-<img src="resources/screenshots.gif"/>
+<img src="resources/preview.apng"/>
 
 ## Preface
 
