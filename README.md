@@ -13,7 +13,6 @@
 
 </center>
 
-# 
 
 An advance cross-platform and multi-feature GUI web spider/crawler for cyber security proffesionals. Spider Suite can be used for attack surface mapping and analysis.
 For more information visit SpiderSuite's [website](https://SpiderSuite.github.io).
@@ -34,17 +33,17 @@ For complete documentation of Spider Suite see [wiki](https://github.com/3nock/S
 
 # Contributing 
 
-**Are you a developer?** 
+_**Are you a developer?**_
 
 Check out the [open issues](https://github.com/3nock/SpiderSuite/issues).
 
-**Not a developer?**
+_**Not a developer?**_
 
 You can help by reporting [bugs](https://github.com/3nock/SpiderSuite/issues), requesting new [features](https://github.com/3nock/SpiderSuite/issues), improving the [documentation](https://github.com/3nock/SpiderSuite/wiki), [sponsoring](SPONSOR.md) the project & writing articles and blog-posts.
 
 For More information see [contribution guide](CONTRIBUTING.md).
 
-## Top Contributers
+**Contributers**
 
 - [3nock](https://twitter.com/3nock_) (main developer)
 
