@@ -1,33 +1,57 @@
-<img src="resources/logo.png" width=500/>
+<center>
 
+<img src="resources/logo.png" width=300/>
+
+<!-- 
+![GitHub all releases](https://img.shields.io/github/downloads/3nock/SpiderSuite/total)
+![GitHub latest release](https://img.shields.io/github/downloads/3nock/SpiderSuite/latest/total)
+-->
 [![License](https://img.shields.io/badge/license-GPLv3-green.svg)](https://raw.githubusercontent.com/3nock/SpiderSuite/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/3nock/SpiderSuite.svg)](https://github.com/3nock/SpiderSuite/releases)
 [![Telegram](https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg)](https://telegram.me/SpiderSuite) 
-[![Twitter](https://img.shields.io/twitter/follow/sub3suite?label=twitter&style=social)](https://twitter.com/spider_suite)
+[![Twitter](https://img.shields.io/twitter/follow/spider_suite?label=follow&style=social)](https://twitter.com/intent/follow?screen_name=spider_suite)
 
-# SpiderSuite
+</center>
 
-Spider Suite is an advance cross-platform web spider/crawler for cyber security proffesionals. 
-For more information checkout the [documentation](https://github.com/3nock/SpiderSuite/wiki)
+# 
 
-## Features
+An advance cross-platform and multi-feature GUI web spider/crawler for cyber security proffesionals. Spider Suite can be used for attack surface mapping and analysis.
+For more information visit SpiderSuite's [website](https://SpiderSuite.github.io).
 
 <img src="resources/preview.apng"/>
 
-## Preface
 
-If you're just getting started with web crawling/spidering, osint information gathering & attack surface mapping, read [primer guide](PRIMER.md).
+# Installation and Usage
+Spider Suite is designed for easy installation and usage even for first timers.
 
-## Contributing 
+- First, [download](https://github.com/3nock/SpiderSuite/releases) the package of your choice.
 
-**Are you a developer?** Check out the [open issues](https://github.com/3nock/SpiderSuite/issues).
+- Then [install](https://github.com/3nock/SpiderSuite/wiki/Installation) the downloaded SpiderSuite package.
 
-**Are you a designer?** You can help design an even more intuitive UI, Logos & Icons.
+- See [First time crawling with SpiderSuite](https://spidersuite.github.io/tutorial/2023/04/22/beginner-guide/) article for tutorial on how to get started.
+
+For complete documentation of Spider Suite see [wiki](https://github.com/3nock/SpiderSuite/wiki).
+
+# Contributing 
+
+**Are you a developer?** 
+
+Check out the [open issues](https://github.com/3nock/SpiderSuite/issues).
 
 **Not a developer?**
-You can help by reporting [bugs](https://github.com/3nock/SpiderSuite/issues), requesting [features](https://github.com/3nock/SpiderSuite/issues), improving the [documentation](https://github.com/3nock/SpiderSuite/wiki), [sponsoring](SPONSOR.md) the project, writing blog posts & sharing this project to peers.
+
+You can help by reporting [bugs](https://github.com/3nock/SpiderSuite/issues), requesting new [features](https://github.com/3nock/SpiderSuite/issues), improving the [documentation](https://github.com/3nock/SpiderSuite/wiki), [sponsoring](SPONSOR.md) the project & writing articles and blog-posts.
 
 For More information see [contribution guide](CONTRIBUTING.md).
 
-## Developers
+## Top Contributers
 
-- [3nock](https://twitter.com/3nock_)
+- [3nock](https://twitter.com/3nock_) (main developer)
+
+# Credits
+
+This product includes software developed by the following open source projects:
+- Google's [Gumbo HTML Parser](http://github.com/google/gumbo-parser)
+- Google's [Protocal bufffers](https://github.com/protocolbuffers/protobuf)
+- SQLite database [library](https://sqlite.org)
+- Graphviz [library](https://graphviz.org)
