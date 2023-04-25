@@ -1,21 +1,36 @@
-<center>
+<!-- <center>
 
 <img src="resources/logo.png" width=300/>
 
-<!-- 
 ![GitHub all releases](https://img.shields.io/github/downloads/3nock/SpiderSuite/total)
 ![GitHub latest release](https://img.shields.io/github/downloads/3nock/SpiderSuite/latest/total)
--->
+
 [![License](https://img.shields.io/badge/license-GPLv3-green.svg)](https://raw.githubusercontent.com/3nock/SpiderSuite/main/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/3nock/SpiderSuite.svg)](https://github.com/3nock/SpiderSuite/releases)
 [![Telegram](https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg)](https://telegram.me/SpiderSuite) 
 [![Twitter](https://img.shields.io/twitter/follow/spider_suite?label=follow&style=social)](https://twitter.com/intent/follow?screen_name=spider_suite)
 
 </center>
+-->
+
+<p align="center">
+    <img src="resources/logo.png" width=300/>
+</p>
+<p align="center">
+    <a href="https://raw.githubusercontent.com/3nock/SpiderSuite/main/LICENSE" alt="License">
+        <img src="https://img.shields.io/badge/license-GPLv3-green.svg" /></a>
+    <a href="https://github.com/3nock/SpiderSuite/releases" alt="GitHub release">
+        <img src="https://img.shields.io/github/release/3nock/SpiderSuite.svg" /></a>
+    <a href="https://telegram.me/SpiderSuite" alt="Telegram">
+        <img src="https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg" /></a>
+    <a href="https://twitter.com/intent/follow?screen_name=spider_suite" alt="Twitter">
+        <img src="https://img.shields.io/twitter/follow/spider_suite?label=follow&style=social" /></a>
+</p>
 
 
 An advance cross-platform and multi-feature GUI web spider/crawler for cyber security proffesionals. Spider Suite can be used for attack surface mapping and analysis.
 For more information visit SpiderSuite's [website](https://SpiderSuite.github.io).
+
 
 <img src="resources/preview.apng"/>
 
@@ -37,9 +52,13 @@ _**Are you a developer?**_
 
 Check out the [open issues](https://github.com/3nock/SpiderSuite/issues).
 
+_**Can you translate?**_
+
+Visit [SpiderSuite crowdin project](https://crowdin.com/project/spidersuite) or use [invite link](https://crowdin.com/project/spidersuite/invite?h=a41e3f3bc42393b1f62ecd1505a82d3a1681839) to make translations to your native language.
+
 _**Not a developer?**_
 
-You can help by reporting [bugs](https://github.com/3nock/SpiderSuite/issues), requesting new [features](https://github.com/3nock/SpiderSuite/issues), improving the [documentation](https://github.com/3nock/SpiderSuite/wiki), [sponsoring](SPONSOR.md) the project & writing articles and blog-posts.
+You can help by reporting [bugs](https://github.com/3nock/SpiderSuite/issues), requesting new [features](https://github.com/3nock/SpiderSuite/issues), improving the [documentation](https://github.com/3nock/SpiderSuite/wiki), [sponsoring](SPONSOR.md) the project & writing articles.
 
 For More information see [contribution guide](CONTRIBUTING.md).
 

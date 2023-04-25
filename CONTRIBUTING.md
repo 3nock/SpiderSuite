@@ -14,7 +14,7 @@ There are various way you can contribute to SpiderSuite project:
 ## Translation
 The plan is to make SpiderSuite international and for that to happen it needs to support most common languages.
 
-See [making translations]() guide to translate SpiderSuite to your native language.
+Visit [SpiderSuite crowdin project](https://crowdin.com/project/spidersuite) or use [invite link](https://crowdin.com/project/spidersuite/invite?h=a41e3f3bc42393b1f62ecd1505a82d3a1681839) to make translations to your native language.
 
 Once translations of a language are 100% complete they will be automatically included with the next coming versions from the current one.
 
@@ -41,8 +41,7 @@ If you've gotten a grasp on how to use SpiderSuite you can help in improving the
 
 The main source of documentation for SpiderSuite is the [wiki](https://github.com/3nock/SpiderSuite/wiki) page.
 
-To contribute simply:
-
+To contribute to wiki simply  simply follow this [guideline](https://gist.github.com/omaraboumrad/35654da0a376c57a2e0ab4d92ad0c339).
 
 ## Designing icons and logos
 
