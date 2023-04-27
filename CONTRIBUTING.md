@@ -14,7 +14,7 @@ There are various way you can contribute to SpiderSuite project:
 ## Translation
 The plan is to make SpiderSuite international and for that to happen it needs to support most common languages.
 
-Visit [SpiderSuite crowdin project](https://crowdin.com/project/spidersuite) or use [invite link](https://crowdin.com/project/spidersuite/invite?h=a41e3f3bc42393b1f62ecd1505a82d3a1681839) to make translations to your native language.
+Visit [SpiderSuite translation project](https://crowdin.com/project/spidersuite) or use [invite link](https://crowdin.com/project/spidersuite/invite?h=a41e3f3bc42393b1f62ecd1505a82d3a1681839) to make translations to your native language.
 
 Once translations of a language are 100% complete they will be automatically included with the next coming versions from the current one.
 

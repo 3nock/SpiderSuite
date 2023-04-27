@@ -1,9 +1,9 @@
 # Become a supporter of SpiderSuite
 
 Your donations support the development & advancement of **Spider Suite**. 
-Any donation amount is acceptable and will help attain the goal of making **Spider Suite** the de-facto tool for web security crawling.
+Any amount is acceptable and will help attain the goal of making **Spider Suite** the de-facto tool for web security crawling.
 
-Want to become a main supporter or partner with SpiderSuite? Feel free to [contact us](CONTACTS.md) on inquiry.
+_**Want to become a main supporter or partner with SpiderSuite?**_ Feel free to [contact us](CONTACTS.md).
 
 ## Sponsor via Bitcoin
 
@@ -11,5 +11,33 @@ Want to become a main supporter or partner with SpiderSuite? Feel free to [conta
 
 Bitcoin address: `18taNLpWFJc7mwJsitaKArvpUfpqBPHSkm`
 
+## Sponsor via Ethereum
 
-*Thank you!*
+<img src="resources/ethereum_address.png" width=300/>
+
+Ethereum address: `0x7611B33d3d03c0964cE93056B560D073BCC9BBc1`
+## Sponsor via PayPal
+
+[![Paypal](https://img.shields.io/badge/-Paypal-0070ba?logo=paypal)](https://paypal.me/SpiderSuite)
+
+<!--
+## Sponsor via Liberapay
+
+[![Liberapay](https://img.shields.io/badge/-Liberapay-f6c915?logo=liberapay&logoColor=black)](https://liberapay.com/SpiderSuite/donate)
+
+## Sponsor via ko-fi
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5AMY6J)
+
+## Sponsor via Patreon
+
+[![Patreon](https://img.shields.io/badge/-Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/SpiderSuite)
+
+## Sponsor via Flattr
+[![Flattr](https://img.shields.io/badge/-Flattr-6bc76b?logo=flattr)](https://flattr.com/@SpiderSuite)
+
+-->
+
+# After Supporting
+
+Please [send us](CONTACTS.md) your contact information after a successful contribution so we can add you to our supporters list and thank you.
