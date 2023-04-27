@@ -1,17 +1,15 @@
-# CONTACT us
+# Contact Information
 
-Contact Information for **Spider Suite**.
-
-*Feel free to contact us for any inquiries.*
+Contact Information for **Spider Suite**. *Feel free to contact us for any inquiries.*
 
 ## Emails
-1. [spid3rsuite@gmail.com](mailto:spid3rsuite@gmail.com)
-2. [enock.n.michael@gmail.com](mailto:enock.n.michael@gmail.com) (founder)
+- [spid3rsuite@gmail.com](mailto:spid3rsuite@gmail.com)
+- [enock.n.michael@gmail.com](mailto:enock.n.michael@gmail.com) (founder)
 
 
 ## Social
-1. [Twitter](https://twitter.com/spider_suite)
-2. [3nock](https://twitter.com/3nock_) (founder)
+- [Twitter](https://twitter.com/spider_suite)
+- [3nock](https://twitter.com/3nock_) (founder)
 
 ## Chat
-1. [Telegram](https://telegram.me/SpiderSuite)
+- [Telegram](https://telegram.me/SpiderSuite)

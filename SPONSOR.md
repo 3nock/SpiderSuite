@@ -20,6 +20,7 @@ Ethereum address: `0x7611B33d3d03c0964cE93056B560D073BCC9BBc1`
 
 [![Paypal](https://img.shields.io/badge/-Paypal-0070ba?logo=paypal)](https://paypal.me/SpiderSuite)
 
+paypal me [@SpiderSuite](https://paypal.me/SpiderSuite)
 <!--
 ## Sponsor via Liberapay
 
@@ -40,4 +41,4 @@ Ethereum address: `0x7611B33d3d03c0964cE93056B560D073BCC9BBc1`
 
 # After Supporting
 
-Please [send us](CONTACTS.md) your contact information after a successful contribution so we can add you to our supporters list and thank you.
+Please [send us](CONTACTS.md) your contact information after a successful contribution so we can add you to our supporters list and thank you. 
