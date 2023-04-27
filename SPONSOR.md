@@ -16,11 +16,14 @@ Bitcoin address: `18taNLpWFJc7mwJsitaKArvpUfpqBPHSkm`
 <img src="resources/ethereum_address.png" width=300/>
 
 Ethereum address: `0x7611B33d3d03c0964cE93056B560D073BCC9BBc1`
+
 ## Sponsor via PayPal
 
-[![Paypal](https://img.shields.io/badge/-Paypal-0070ba?logo=paypal)](https://paypal.me/SpiderSuite)
+<img src="resources/paypal.png" width=300>
 
-paypal me [@SpiderSuite](https://paypal.me/SpiderSuite)
+[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=QSYPMNDY79GQY)
+
+
 <!--
 ## Sponsor via Liberapay
 
