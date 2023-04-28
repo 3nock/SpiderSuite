@@ -1,0 +1,49 @@
+name: "Feature Request"
+description: "Suggest an idea for this project"
+title: "[Feature Request]: "
+labels: ["Feature"]
+body:
+- type: markdown
+  attributes:
+    value: >
+      Thanks for taking the time to think of and suggest a new feature! Your suggestion is a really important part of
+      maintaining and improving Spider Suite.
+
+
+      That said **please do a quick search of the existing issues first** at
+      https://github.com/3nock/SpiderSuite/issues. Somebody may have requested this already.
+
+      ---
+- type: textarea
+  attributes:
+    label: Problem
+    description: |
+      Is your feature request related to a problem? Please describe.
+    placeholder: |
+      A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+- type: textarea
+  attributes:
+    label: Solution
+    description: |
+      Describe the solution you'd like
+    placeholder: |
+      A clear and concise description of what you want to happen.
+
+- type: textarea
+  attributes:
+    label: Alternatives
+    description: |
+      Describe alternatives you've considered
+    placeholder: |
+      A clear and concise description of any alternative solutions or features you've considered.
+
+- type: textarea
+  attributes:
+    label: Additional context
+    description: |
+      Additional context
+    placeholder: |
+      Add any other context or screenshots about the feature request here. 
+      
+      To attach a file to this issue, drag it onto this field, paste an image, or select this field and click the bar at the bottom.
