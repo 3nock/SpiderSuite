@@ -54,7 +54,7 @@ Check out the [open issues](https://github.com/3nock/SpiderSuite/issues).
 
 _**Can you translate?**_
 
-Visit [SpiderSuite's translation project](https://crowdin.com/project/spidersuite) or use [invite link](https://crowdin.com/project/spidersuite/invite?h=a41e3f3bc42393b1f62ecd1505a82d3a1681839) to make translations to your native language.
+Visit [SpiderSuite's translation project](https://crowdin.com/project/spidersuite) to make translations to your native language.
 
 _**Not a developer?**_
 
