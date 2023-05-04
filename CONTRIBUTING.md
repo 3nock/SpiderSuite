@@ -78,4 +78,4 @@ Financial support is a key ingredient to make SpiderSuite advance and go further
 
 You are welcome to financially suport SpiderSuite development as and individual or as an organization.
 
-See [sponsor](SPONSOR.md) or [support](https://SpiderSuite.github.io/sponsors/) to financially contribute to SpiderSuite.
+See [sponsor](SPONSOR.md) or [support](https://SpiderSuite.github.io/sponsor/) to financially contribute to SpiderSuite.

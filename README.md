@@ -64,7 +64,7 @@ For More information see [contribution guide](CONTRIBUTING.md).
 
 **Contributers**
 
-- [3nock](https://twitter.com/3nock_) (main developer)
+- [3nock](https://github.com/3nock) (main developer)
 
 # Credits
 
