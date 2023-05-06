@@ -48,9 +48,11 @@ For complete documentation of Spider Suite see [wiki](https://github.com/3nock/S
 
 # Contributing 
 
+<!--
 _**Are you a developer?**_
 
 Check out the [open issues](https://github.com/3nock/SpiderSuite/issues).
+-->
 
 _**Can you translate?**_
 
