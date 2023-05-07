@@ -5,11 +5,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/3nock/SpiderSuite/total)
 ![GitHub latest release](https://img.shields.io/github/downloads/3nock/SpiderSuite/latest/total)
 
-[![License](https://img.shields.io/badge/license-GPLv3-green.svg)](https://raw.githubusercontent.com/3nock/SpiderSuite/main/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/3nock/SpiderSuite.svg)](https://github.com/3nock/SpiderSuite/releases)
-[![Telegram](https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg)](https://telegram.me/SpiderSuite) 
-[![Twitter](https://img.shields.io/twitter/follow/spider_suite?label=follow&style=social)](https://twitter.com/intent/follow?screen_name=spider_suite)
-
 </center>
 -->
 
@@ -17,8 +12,6 @@
     <img src="resources/logo.png" width=300/>
 </p>
 <p align="center">
-    <a href="https://raw.githubusercontent.com/3nock/SpiderSuite/main/LICENSE" alt="License">
-        <img src="https://img.shields.io/badge/license-GPLv3-green.svg" /></a>
     <a href="https://github.com/3nock/SpiderSuite/releases" alt="GitHub release">
         <img src="https://img.shields.io/github/release/3nock/SpiderSuite.svg" /></a>
     <a href="https://telegram.me/SpiderSuite" alt="Telegram">
@@ -26,7 +19,6 @@
     <a href="https://twitter.com/intent/follow?screen_name=spider_suite" alt="Twitter">
         <img src="https://img.shields.io/twitter/follow/spider_suite?label=follow&style=social" /></a>
 </p>
-
 
 An advance cross-platform and multi-feature GUI web spider/crawler for cyber security proffesionals. Spider Suite can be used for attack surface mapping and analysis.
 For more information visit SpiderSuite's [website](https://SpiderSuite.github.io).
@@ -47,12 +39,6 @@ Spider Suite is designed for easy installation and usage even for first timers.
 For complete documentation of Spider Suite see [wiki](https://github.com/3nock/SpiderSuite/wiki).
 
 # Contributing 
-
-<!--
-_**Are you a developer?**_
-
-Check out the [open issues](https://github.com/3nock/SpiderSuite/issues).
--->
 
 _**Can you translate?**_
 
