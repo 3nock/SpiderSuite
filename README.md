@@ -1,19 +1,10 @@
-<!-- <center>
-
-<img src="resources/logo.png" width=300/>
-
-![GitHub all releases](https://img.shields.io/github/downloads/3nock/SpiderSuite/total)
-![GitHub latest release](https://img.shields.io/github/downloads/3nock/SpiderSuite/latest/total)
-
-</center>
--->
-
 <p align="center">
     <img src="resources/logo.png" width=300/>
 </p>
 <p align="center">
     <a href="https://github.com/3nock/SpiderSuite/releases" alt="GitHub release">
         <img src="https://img.shields.io/github/release/3nock/SpiderSuite.svg" /></a>
+    <img src="https://img.shields.io/github/downloads/3nock/SpiderSuite/total" alt="GitHub all releases downloads count">
     <a href="https://telegram.me/SpiderSuite" alt="Telegram">
         <img src="https://img.shields.io/badge/chat-%20on%20Telegram-blue.svg" /></a>
     <a href="https://twitter.com/intent/follow?screen_name=spider_suite" alt="Twitter">
