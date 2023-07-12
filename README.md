@@ -41,9 +41,21 @@ You can help by reporting [bugs](https://github.com/3nock/SpiderSuite/issues), r
 
 For More information see [contribution guide](CONTRIBUTING.md).
 
-**Contributers**
+# Sponsors
 
-- [3nock](https://github.com/3nock) (main developer)
+<img src="resources/websec.png"/>
+
+WebSec BV, a cybersecurity company based in Amsterdam, is recognized for their dedication to helping businesses and individuals protect themselves against online threats. As a valued sponsor, they have contributed significantly to the promotion of cybersecurity and the creation of a safer online world.
+
+WebSec's team of professionals is committed to staying ahead of the latest threats and developing cutting-edge solutions to keep their clients protected. Their passion for cybersecurity education has made them a trusted and reliable partner in the industry.
+
+Through their sponsorship and support, WebSec has demonstrated their commitment to promoting cybersecurity awareness and helping people stay safe online. Their contributions are greatly appreciated and have made a significant impact on the work being done in this field, such as making this project a reality.
+
+Overall, WebSec BV is a trusted and respected leader in the fight against cybercrime, and their sponsorship and support have been instrumental in promoting a safer online world. They are a valued partner and their contributions to this important work are truly appreciated.
+
+Website: [websec.nl](https://websec.nl)
+
+Blog: [websec.nl/blog](https://websec.nl/blog)
 
 # Credits
 
