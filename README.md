@@ -15,7 +15,11 @@ An advance cross-platform and multi-feature GUI web spider/crawler for cyber sec
 For more information visit SpiderSuite's [website](https://SpiderSuite.github.io).
 
 
-<img src="resources/preview.gif"/>
+<center><img src="resources/screenshot1.png"/></center>
+
+<center><img src="resources/screenshot2.png"/></center>
+
+<center><img src="resources/screenshot3.png"/></center>
 
 
 # Installation and Usage
